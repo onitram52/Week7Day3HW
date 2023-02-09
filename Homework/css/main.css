@@ -1,0 +1,19 @@
+body{
+    margin: 20px;
+    padding-left: 50px;
+    background: linear-gradient(to right, red, white, green);
+}
+
+th{
+    padding: 5px;
+    padding-top: 20px;
+}
+
+td{
+    padding: 5px;
+    outline: thin black;
+}
+
+img{
+    opacity: 50%;
+}
